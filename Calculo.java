@@ -10,8 +10,12 @@ public class Calculo {
         this.b = b;
     }
     
-    public int Suma() {
+    public int Sumar() {
     return a+b;
+    }
+    
+    public int Restar() {
+    return a-b;
     }
         
 }
