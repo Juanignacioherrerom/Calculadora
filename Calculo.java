@@ -17,5 +17,9 @@ public class Calculo {
     public int Restar() {
     return a-b;
     }
+    
+    public int Multiplicar(){
+    return a*b;
+    }
         
 }
